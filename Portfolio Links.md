@@ -1,3 +1,32 @@
+There is links of the best REACT websites, which i developed:
+https://app.glorify.com/ - react.js + redux.js + tailwind
+https://listening.com/ - react.js + astro.js + tinaCMS + tailwind.css + zustand
+https://www.blitzit.app/ - react.js + zustand + framerCMS
+
+There is links of the best framer websites, which i developed:
+https://www.collabify.design/ - got framer awwards
+https://glorify.com/ - the biggest framer websites, which i developed
+
+Other Framer Links: 
+https://quick-time-424621.framer.app/
+https://lensadventures.de/
+https://atelierpolin.framer.website/
+https://wisdom-learn-hub.framer.website/
+https://space61.framer.website/
+https://falsezero.framer.website/
+https://www.blitzit.app/
+https://www.heystay.nl/ - Heystay!
+https://shining-dog-950001.framer.app/
+https://www.wearemethod.xyz/
+https://kastorcoffeemachines.com/
+https://bardadim-tattoo.framer.website
+https://grclab.com/
+
+
+There is link of the best webflow websites, which i developed:
+https://www.frydge.com
+
+https://viktorshmatko.com/
 https://viktorshmatko.com/projects/dashboard-abc
 https://viktorshmatko.com/projects/dashboard-analytics
 https://viktorshmatko.com/projects/dashboard-datamolino
@@ -64,23 +93,3 @@ https://viktorshmatko.com/projects/landing-secure-vpn
 https://viktorshmatko.com/projects/landing-shopescope
 https://viktorshmatko.com/projects/landing-jdh
 https://viktorshmatko.com/projects/landing-youtube
-
-
-There is link of the best framer websites, which i developed:
-https://www.collabify.design/ - got framer awwards
-https://glorify.com/ - the biggest framer websites, which i developed
-
-Other Framer Links: 
-https://quick-time-424621.framer.app/
-https://lensadventures.de/
-https://atelierpolin.framer.website/
-https://wisdom-learn-hub.framer.website/
-https://space61.framer.website/
-https://falsezero.framer.website/
-https://www.blitzit.app/
-https://www.heystay.nl/ - Heystay!
-https://shining-dog-950001.framer.app/
-
-
-There is link of the best webflow websites, which i developed:
-https://www.frydge.com
