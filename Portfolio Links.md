@@ -2,6 +2,8 @@ There is links of the best REACT websites, which i developed:
 https://app.glorify.com/ - react.js + redux.js + tailwind
 https://listening.com/ - react.js + astro.js + tinaCMS + tailwind.css + zustand
 https://www.blitzit.app/ - react.js + zustand + framerCMS
+https://www.leadpages.com/ - react.js + tailwind + storybook
+https://create.leadpages.com/ - react.js + tailwind + storybook
 
 There is links of the best framer websites, which i developed:
 https://www.collabify.design/ - got framer awwards
@@ -21,7 +23,11 @@ https://www.wearemethod.xyz/
 https://kastorcoffeemachines.com/
 https://bardadim-tattoo.framer.website
 https://grclab.com/
+https://kastorcoffeemachines.com/
 
+Wordpress websites: 
+https://vacuumpump.com.ua/
+https://dreamroom.com.ua/
 
 There is link of the best webflow websites, which i developed:
 https://www.frydge.com
